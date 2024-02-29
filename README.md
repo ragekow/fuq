@@ -6,7 +6,7 @@ Well, it's a "pastebin" self-hosted clone in PHP. Styling is Tailwind. I'm testi
 
 ### What you need to know.
 1. db.php stores the db connection info.
-2. register_process.php stores a secret phrase, used during registration to permit successful registration. 
+2. register_process.php line 53 stores a secret phrase, used during registration to permit successful registration. 
 
 ![image](https://github.com/ragekow/fuq/assets/140319467/29dda03f-5311-429b-934b-5e237094e70f)
 
